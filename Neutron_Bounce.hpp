@@ -13,6 +13,7 @@
 
 int main(){
     std::cout << "Hello, World!" << std::endl;
+    std::cout << "This is a test of the Neutron_Bounce.hpp file." << std::endl;
     return 0;
 }
 
